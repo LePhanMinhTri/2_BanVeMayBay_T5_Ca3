@@ -14,4 +14,48 @@
 - Hỗ Trợ Khách Hàng 24/7: Đội ngũ hỗ trợ của chúng tôi sẵn sàng giúp đỡ bạn 24/7. Hãy liên hệ với chúng tôi bất kỳ lúc nào bạn cần sự hỗ trợ.
 
 - An Toàn và Đáng Tin Cậy: Chúng tôi tuân thủ nghiêm ngặt các tiêu chuẩn an toàn và bảo mật. Thông tin cá nhân của bạn luôn được bảo vệ và được quản lý một cách an toàn.</p>
-  ![dawdawdwadawdawda](images/
+<img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-01%20224232.png">
+<h2 align="center"><i>&#x2692;</i> Các công cụ hỗ trợ</h2>
+<p align="center">
+  <img width="96" height="96" src="https://img.icons8.com/color-glass/96/github--v1.png" alt="github--v1"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/visual-studio.png" alt="visual-studio"/>
+  <img width="96" height="96" src="https://img.icons8.com/parakeet/96/mysql.png" alt="mysql"/>
+</p>
+<h2 align="center"><i>&#x2692;</i> Các công cụ hỗ trợ</h2>
+<table style="width:100%;">
+  <tr>
+    <thead>
+      <tr>
+        <th>Number</th>
+        <th>Name</th>
+        <th>Account</th>
+        <th>Role</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Lê Phan Minh Trí</td>
+        <td>LePhanMinhTri</td>
+        <td>TeamLead, Dev</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Nguyễn Minh Trường</td>
+        <td>NguyenMinhTruong</td>
+        <td>Product Owner, Dev</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Bùi Quốc Thái</td>
+        <td>quocthai25</td>
+        <td>ScrumMaster, Dev</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Công Huy</td>
+        <td>conghuy</td>
+        <td>Dev</td>
+      </tr>
+    </tbody>
+  </table>
