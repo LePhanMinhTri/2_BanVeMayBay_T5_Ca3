@@ -59,9 +59,9 @@
     </tbody>
   </table>
   <h2 align="center">Các chức năng của đồ án &#x2713;</h2>
-  <p>Sprint 1</p>
+  <h3>Sprint 1</h3>
   <p1>-Đăng nhập <br>-Đăng ký<br>-Đăng xuất</p1>
-    <p>Sprint 2</p>
+    <h3>Sprint 2</h3>
   <p1>-Tìm kiếm vé <br>-Xem thông tin chi tiết vé<br>-Xem danh sách vé<br>-Liên hệ</p1>
   
   
