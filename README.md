@@ -5,8 +5,7 @@
 <h3 align="center">Chào mừng bạn đến với Trang Web Bán Vé Máy Bay!</h3>
 <p>- Bạn đã sẵn sàng khám phá thế giới? Hãy để chúng tôi giúp bạn biến mọi chuyến đi thành hiện thực với dịch vụ bán vé máy bay hàng đầu của chúng tôi. Với một loạt các tùy chọn vé, giá cả cạnh tranh, và trải nghiệm đặt vé thuận tiện, chúng tôi cam kết đưa bạn đến bất kỳ điểm đến nào trên thế giới một cách dễ dàng và an toàn.</p>
 <h3 align="center">Tại sao chọn chúng tôi:</h3>
-<p>- Đa dạng Vé Máy Bay: Với hàng trăm hãng hàng không và tùy chọn chuyến bay, chúng tôi đảm bảo bạn luôn có lựa chọn phù hợp với nhu cầu và ngân sách của mình.
-
+<p>
 - Giá Cả Cạnh Tranh: Chúng tôi liên tục theo dõi giá vé và cung cấp ưu đãi hấp dẫn. Bạn sẽ luôn tìm thấy giá vé hợp lý trên trang web của chúng tôi.
 
 - Trải Nghiệm Đặt Vé Dễ Dàng: Giao diện trực quan và thân thiện với người dùng giúp bạn đặt vé một cách nhanh chóng và thuận tiện. Chỉ vài cú nhấp chuột, và bạn đã sẵn sàng lên đường.
@@ -21,7 +20,7 @@
   <img width="96" height="96" src="https://img.icons8.com/fluency/96/visual-studio.png" alt="visual-studio"/>
   <img width="96" height="96" src="https://img.icons8.com/parakeet/96/mysql.png" alt="mysql"/>
 </p>
-<h2 align="center"><i>&#x2692;</i> Các công cụ hỗ trợ</h2>
+<h2 align="center"><i>&#x1F464;</i> Các thành viên trong nhóm</h2>
 <table style="width:100%;">
   <tr>
     <thead>
@@ -59,3 +58,5 @@
       </tr>
     </tbody>
   </table>
+  <h2>Những gì đã làm được &#x2713;</h2>
+  
