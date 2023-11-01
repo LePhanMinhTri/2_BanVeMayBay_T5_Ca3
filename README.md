@@ -58,5 +58,6 @@
       </tr>
     </tbody>
   </table>
-  <h2>Những gì đã làm được &#x2713;</h2>
+  <h2 align="center">Các chức năng của đồ án &#x2713;</h2>
+  
   
