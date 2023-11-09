@@ -59,6 +59,8 @@
   <h3>Sprint 1</h3>
   <p1>-Giao diện <br>-Đăng nhập <br>-Đăng ký<br>-Đăng xuất</p1>
     <h3>Sprint 2</h3>
-  <p1>-Tìm kiếm vé <br>-Xóa vé trong giỏ hàng<br>-Xem danh sách vé<br>-Thêm vé</p1>
+  <p1>-Tìm kiếm vé <br>-Xóa vé trong giỏ hàng<br>-Xem danh sách vé<br>-Thêm vé<br>-Thanh toán<br>-Chi tiết sản phẩm</p1>
+  <h3>Sprint 3</h3>
+  <p1>-Thanh toán online</p1>
   
   
