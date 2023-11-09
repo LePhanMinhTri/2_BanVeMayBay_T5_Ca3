@@ -47,13 +47,17 @@
   </table>
 </div>
   <h2 align="center">III/ Các chức năng đã có của đồ án &#x2713;</h2>
+ <div align="center"> 
   <h3>Sprint 1</h3>
-  <p1>-Đăng nhập <br>-Đăng ký<br>-Đăng xuất</p1>
+  <p1>-Đăng nhập<br>-Đăng ký<br>-Đăng xuất</p1>
     <h3>Sprint 2</h3>
-  <p1>-Tìm kiếm vé <br>-Xóa vé trong giỏ hàng<br>-Xem danh sách vé<br>-Thêm vé<br>-Thanh toán<br>-Chi tiết sản phẩm</p1>
+  <p1>-Tìm kiếm vé<br>-Xóa vé trong giỏ hàng<br>-Xem danh sách vé<br>-Thêm vé<br>-Thanh toán<br>-Chi tiết sản phẩm</p1>
+ </div>
   <h2 align="center">IV/ Các chức năng chưa có của đồ án</h2>
+  <div align="center">
   <h3>Sprint 3</h3>
   <p1>-Thanh toán online</p1>
+  </div>
   <h2 align="center">V/ Một số hình ảnh của website</h2>
 <img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
 <p align="center">Trang chủ</p>
