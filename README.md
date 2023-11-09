@@ -13,7 +13,7 @@
 - Hỗ Trợ Khách Hàng 24/7: Đội ngũ hỗ trợ của chúng tôi sẵn sàng giúp đỡ bạn 24/7. Hãy liên hệ với chúng tôi bất kỳ lúc nào bạn cần sự hỗ trợ.
 
 - An Toàn và Đáng Tin Cậy: Chúng tôi tuân thủ nghiêm ngặt các tiêu chuẩn an toàn và bảo mật. Thông tin cá nhân của bạn luôn được bảo vệ và được quản lý một cách an toàn.</p>
-<img src="[https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-01%20224232.png](https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png)">
+<img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
 <h2 align="center"><i>&#x2692;</i> Các công cụ hỗ trợ</h2>
 <p align="center">
   <img width="96" height="96" src="https://img.icons8.com/color-glass/96/github--v1.png" alt="github--v1"/>
