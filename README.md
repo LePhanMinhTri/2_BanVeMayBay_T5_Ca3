@@ -53,18 +53,12 @@
         <td>quocthai25</td>
         <td>ScrumMaster, Dev</td>
       </tr>
-      <tr>
-        <td>4</td>
-        <td>Công Huy</td>
-        <td>conghuy</td>
-        <td>Dev</td>
-      </tr>
     </tbody>
   </table>
   <h2 align="center">Các chức năng của đồ án &#x2713;</h2>
   <h3>Sprint 1</h3>
-  <p1>-Đăng nhập <br>-Đăng ký<br>-Đăng xuất</p1>
+  <p1>-Giao diện <br>-Đăng nhập <br>-Đăng ký<br>-Đăng xuất</p1>
     <h3>Sprint 2</h3>
-  <p1>-Tìm kiếm vé <br>-Xem thông tin chi tiết vé<br>-Xem danh sách vé<br>-Liên hệ</p1>
+  <p1>-Tìm kiếm vé <br>-Xóa vé trong giỏ hàng<br>-Xem danh sách vé<br>-Thêm vé</p1>
   
   
