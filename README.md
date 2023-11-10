@@ -31,14 +31,14 @@
         <td>Lê Phan Minh Trí</td>
         <td>LePhanMinhTri</td>
         <td>TeamLead, Dev</td>
-        <td><a href="link_to_image_1.jpg"><img src="duong_dan_den_hinh_anh_1.jpg" alt="Hình ảnh 1" width="50" height="50"></a></td>
+        <td><a href="https://www.facebook.com/redd.thai.9"><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="50" height="50"></a></td>
       </tr>
       <tr>
         <td>2</td>
         <td>Nguyễn Minh Trường</td>
         <td>NguyenMinhTruong</td>
         <td>Product Owner, Dev</td>
-        <td><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="100" height="80"></td>
+        <td><img src="" alt="Hình ảnh 1" width="100" height="80"></td>
       </tr>
       <tr>
         <td>3</td>
