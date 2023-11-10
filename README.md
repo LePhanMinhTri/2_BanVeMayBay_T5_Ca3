@@ -31,19 +31,21 @@
         <td>Lê Phan Minh Trí</td>
         <td>LePhanMinhTri</td>
         <td>TeamLead, Dev</td>
-        <td><img src="duong_dan_den_hinh_anh_1.jpg" alt="Hình ảnh 1" width="50" height="50"></td>
+        <td><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="100" height="80"></td>
       </tr>
       <tr>
         <td>2</td>
         <td>Nguyễn Minh Trường</td>
         <td>NguyenMinhTruong</td>
         <td>Product Owner, Dev</td>
+        <td><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="100" height="80"></td>
       </tr>
       <tr>
         <td>3</td>
         <td>Bùi Quốc Thái</td>
         <td>quocthai25</td>
         <td>ScrumMaster, Dev</td>
+        <td><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="100" height="80"></td>
       </tr>
     </tbody>
   </table>
