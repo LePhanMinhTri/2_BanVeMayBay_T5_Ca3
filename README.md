@@ -18,10 +18,11 @@
   <tr>
     <thead>
       <tr>
-        <th>Number</th>
-        <th>Name</th>
+        <th>Số thứ tự</th>
+        <th>Họ và Tên</th>
         <th>Account</th>
-        <th>Role</th>
+        <th>Chức danh</th>
+        <th>Hình ảnh</th>
       </tr>
     </thead>
     <tbody>
@@ -30,6 +31,7 @@
         <td>Lê Phan Minh Trí</td>
         <td>LePhanMinhTri</td>
         <td>TeamLead, Dev</td>
+        <td><img src="duong_dan_den_hinh_anh_1.jpg" alt="Hình ảnh 1" width="50" height="50"></td>
       </tr>
       <tr>
         <td>2</td>
