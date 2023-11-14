@@ -31,7 +31,7 @@
         <td>Lê Phan Minh Trí</td>
         <td>LePhanMinhTri</td>
         <td>TeamLead, Dev</td>
-        <td><a href="https://www.facebook.com/redd.thai.9"><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="100" height="80"></a></td>
+        <td><a href="https://www.facebook.com/redd.thai.9"><img src="buiquocthai.png" alt="Hình ảnh 1" width="100" height="80"></a></td>
       </tr>
       <tr>
         <td>2</td>
@@ -45,7 +45,7 @@
         <td>Bùi Quốc Thái</td>
         <td>quocthai25</td>
         <td>ScrumMaster, Dev</td>
-        <td><img src="Screenshot 2023-11-09 101156.png" alt="Hình ảnh 1" width="100" height="80"></td>
+        <td><a href="https://www.facebook.com/minhtrile13"><img src="lephanminhtri.png" alt="Hình ảnh 3" width="100" height="80"></td>
       </tr>
     </tbody>
   </table>
