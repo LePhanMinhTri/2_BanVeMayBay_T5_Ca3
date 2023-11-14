@@ -8,8 +8,11 @@
 <h1 align="center">WEB BÁN VÉ MÁY BAY</h1>
 <p align="center"><img width="60" height="60" src="https://img.icons8.com/papercut/60/airplane-take-off.png" alt="airplane-take-off"/></p>
 <h2 align="center">Chào mừng bạn đến với Trang Web Bán Vé Máy Bay!</h2>
+<div align="center">
 <p align="center">Bạn đã sẵn sàng khám phá thế giới? Hãy để chúng tôi giúp bạn biến mọi chuyến đi thành hiện thực với dịch vụ bán vé máy bay hàng đầu của chúng tôi. Với một loạt các tùy chọn vé, giá cả cạnh tranh, và trải nghiệm đặt vé thuận tiện, chúng tôi cam kết đưa bạn đến bất kỳ điểm đến nào trên thế giới một cách dễ dàng và an toàn.</p>
-    </head>
+<img src="d6d1e0bbdd2eda8f44a2125154670e82.gif" width="300" alt="máy bay">
+</div>
+  </head>
   <body>
 <h2 align="center">&#x1F4A1; I/ Mục đích dự án</h2>
 <p>
