@@ -1,9 +1,14 @@
 # 2_BanVeMayBay_T5_Ca3
+<!DOCTYPE html>
+<html>
+  <head>
 <h1 align="center">WEB BÁN VÉ MÁY BAY</h1>
 <p align="center"><img width="60" height="60" src="https://img.icons8.com/papercut/60/airplane-take-off.png" alt="airplane-take-off"/></p>
 <h2 align="center">Chào mừng bạn đến với Trang Web Bán Vé Máy Bay!</h2>
 <p align="center">Bạn đã sẵn sàng khám phá thế giới? Hãy để chúng tôi giúp bạn biến mọi chuyến đi thành hiện thực với dịch vụ bán vé máy bay hàng đầu của chúng tôi. Với một loạt các tùy chọn vé, giá cả cạnh tranh, và trải nghiệm đặt vé thuận tiện, chúng tôi cam kết đưa bạn đến bất kỳ điểm đến nào trên thế giới một cách dễ dàng và an toàn.</p>
-<h2 align="center">I/ Mục đích dự án</h2>
+    </head>
+  <body>
+<h2 align="center">&#x1F4A1; I/ Mục đích dự án</h2>
 <p>
 - Giá Cả Cạnh Tranh: Chúng tôi liên tục theo dõi giá vé và cung cấp ưu đãi hấp dẫn. Bạn sẽ luôn tìm thấy giá vé hợp lý trên trang web của chúng tôi.
 
@@ -50,7 +55,7 @@
     </tbody>
   </table>
 </div>
-<h2 align="center">III/ Các chức năng đã có của đồ án &#x2713;</h2>
+<h2 align="center">&#x2713; III/ Các chức năng đã có của đồ án</h2>
 <div align="center"> 
   <table>
     <thead>
@@ -72,9 +77,9 @@
   </table>
 </div>
 
-<h2 align="center">IV/ Các chức năng chưa có của đồ án</h2>
+<h2 align="center">&#x274C; IV/ Các chức năng chưa có của đồ án</h2>
 <div align="center">
-  <table>
+  <table style="width:100%;">
     <thead>
       <tr>
         <th>Sprint</th>
@@ -89,7 +94,7 @@
     </tbody>
   </table>
 </div>
-  <h2 align="center">V/ Một số hình ảnh của website</h2>
+  <h2 align="center">&#x1F4F7; V/ Một số hình ảnh của website</h2>
 <img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
 <p align="center">Trang chủ</p>
 <img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101805.png">
@@ -100,7 +105,12 @@
   <img width="96" height="96" src="https://img.icons8.com/fluency/96/visual-studio.png" alt="visual-studio"/>
   <img width="96" height="96" src="https://img.icons8.com/parakeet/96/mysql.png" alt="mysql"/>
 </p>
-<h2 align="center">VII/ Phương hướng phát triển</h2>
- 
+<h2 align="center">&#x1F52D; VII/ Phương hướng phát triển</h2>
+<p align="center">-Tiện lợi<br>
+  -Giao diện đẹp<br> 
+  -Uy tín 
+</p>
+</body>
+</html>
   
   
