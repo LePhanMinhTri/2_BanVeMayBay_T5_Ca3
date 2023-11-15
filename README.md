@@ -49,7 +49,7 @@
         <td>Nguyễn Minh Trường</td>
         <td>NguyenMinhTruong</td>
         <td>Product Owner, Dev</td>
-        <td><img src="" alt="Hình ảnh 1" width="100" height="80"></td>
+        <td><a href="https://www.facebook.com/profile.php?id=100013284305932"><img src="z4883588160885_366b624e51d42d7a40aba1bcbc21e462.jpg" alt="Hình ảnh 1" width="100" height="80"></td>
       </tr>
       <tr>
         <td>3</td>
