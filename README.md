@@ -1,7 +1,7 @@
 # 2_BanVeMayBay_T5_Ca3
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
 <p align="center">
   <img src="anh-dong-welcome-don-gian-mau-do_075926912.gif" width="300" alt="Animated Welcome Image">
 </p>
@@ -118,9 +118,11 @@
 </div>
   <h2 align="center">&#x1F4F7; V/ Một số hình ảnh của website</h2>
 <img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
-<p align="center">Trang chủ</p>
+<h3 align="center">Trang chủ</h3>
 <img src="Screenshot 2023-11-16 020641.png">
-<p align="center">Danh sách chuyến bay</p>
+<h3 align="center">Danh sách chuyến bay</h3>
+<img src="Screenshot 2023-11-16 022856.png">
+<h3 align="center">Footer cho người dùng</h3>
 <h2 align="center"><i>&#x2692;</i>VI/ Các công cụ hỗ trợ</h2>
 <p align="center">
   <img width="96" height="96" src="https://img.icons8.com/color-glass/96/github--v1.png" alt="github--v1"/>
