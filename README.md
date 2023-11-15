@@ -73,11 +73,15 @@
     <tbody>
       <tr>
         <td>Sprint 1</td>
-        <td>- Đăng nhập<br>- Đăng ký<br>- Đăng xuất</td>
+        <td>- Đăng nhập<br>- Đăng ký<br>- Đăng xuất<br>- Homepage<br>- List Product</td>
       </tr>
       <tr>
         <td>Sprint 2</td>
         <td>- Tìm kiếm vé<br>- Xóa vé trong giỏ hàng<br>- Xem danh sách vé<br>- Thêm vé<br>- Thanh toán<br>- Chi tiết sản phẩm</td>
+      </tr>
+      <tr>
+        <td>Sprint 3</td>
+        <td>- Đổi mật khẩu<br>- Trang Profile<br>- Sửa chuyến bay<br>- Xóa chuyến bay<br>- Quản lý sân bay<br>- Quản lý bay</td>
       </tr>
     </tbody>
   </table>
@@ -88,13 +92,13 @@
   <table style="width:100%;">
     <thead>
       <tr>
-        <th>Sprint</th>
+        <th>STT</th>
         <th>Chức Năng</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Sprint 3</td>
+        <td>1</td>
         <td>- Thanh toán online</td>
       </tr>
     </tbody>
