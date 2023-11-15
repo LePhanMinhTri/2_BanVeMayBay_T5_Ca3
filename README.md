@@ -101,6 +101,18 @@
         <td>1</td>
         <td>- Thanh toán online</td>
       </tr>
+      <tr>
+        <td>2</td>
+        <td>- Vé khứ hồi</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>- Vé một chiều</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>- Giao diện đẹp</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -144,6 +156,11 @@
   </table>
 </div>
 </body>
+<footer>
+  <p align="center">
+  <img src="thanksyou.gif"width="600" alt="thanksyou">
+    </p>
+</footer>
 </html>
   
   
