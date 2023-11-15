@@ -116,10 +116,33 @@
   <img width="96" height="96" src="https://img.icons8.com/parakeet/96/mysql.png" alt="mysql"/>
 </p>
 <h2 align="center">&#x1F52D; VII/ Phương hướng phát triển</h2>
-<p align="center">-Tiện lợi<br>
-  -Giao diện đẹp<br> 
-  -Uy tín 
-</p>
+<div align="center">
+<table style="width:100%;">
+  <tr>
+    <thead>
+      <tr>
+        <th>Các phương hướng phát triển</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>- Tiện lợi cho người dùng dễ sử dụng hơn</td>
+      </tr>
+      <tr>
+        <td>- Giao diện đẹp dễ dùng và đơn giản</td>
+      </tr> 
+      <tr>
+        <td>- Uy tín và đảm bảo chât lượng , an toàn đối với người dùng</td>
+      </tr> 
+      <tr>
+        <td>- Tăng cường làm nhiều thêm chức năng để phục vụ cho người dùng</td>
+      </tr> 
+      <tr>
+        <td>- Update liên tục giao diện đại và nhu cầu người dùng</td>
+      </tr> 
+    </tbody>
+  </table>
+</div>
 </body>
 </html>
   
