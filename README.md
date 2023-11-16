@@ -81,7 +81,7 @@
       </tr>
       <tr>
         <td>Sprint 3</td>
-        <td>- Đổi mật khẩu<br>- Trang Profile<br>- Sửa chuyến bay<br>- Xóa chuyến bay<br>- Quản lý sân bay<br>- Quản lý bay</td>
+        <td>- Đổi mật khẩu<br>- Trang Profile<br>- Sửa chuyến bay<br>- Xóa chuyến bay<br>- Quản lý sân bay<br>- Quản lý bay<br>- Thanh toán online</td>
       </tr>
     </tbody>
   </table>
