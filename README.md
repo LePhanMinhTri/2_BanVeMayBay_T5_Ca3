@@ -115,7 +115,7 @@
   <h2 align="center">&#x1F4F7; V/ Một số hình ảnh của website</h2>
 <img src="https://github.com/LePhanMinhTri/2_BanVeMayBay_T5_Ca3/blob/main/Screenshot%202023-11-09%20101156.png">
 <h3 align="center">Trang chủ</h3>
-<img src="Screenshot 2023-11-16 020641.png">
+<img src="Screenshot 2023-11-16 141839.png">
 <h3 align="center">Danh sách chuyến bay</h3>
 <img src="Screenshot 2023-11-16 022856.png">
 <h3 align="center">Footer cho người dùng</h3>
