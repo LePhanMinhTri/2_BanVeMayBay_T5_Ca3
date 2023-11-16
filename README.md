@@ -98,10 +98,6 @@
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
-        <td>- Thanh toán online</td>
-      </tr>
-      <tr>
         <td>2</td>
         <td>- Vé khứ hồi</td>
       </tr>
