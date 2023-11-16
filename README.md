@@ -98,15 +98,15 @@
     </thead>
     <tbody>
       <tr>
-        <td>2</td>
+        <td>1</td>
         <td>- Vé khứ hồi</td>
       </tr>
       <tr>
-        <td>3</td>
+        <td>2</td>
         <td>- Vé một chiều</td>
       </tr>
       <tr>
-        <td>4</td>
+        <td>3</td>
         <td>- Giao diện đẹp</td>
       </tr>
     </tbody>
